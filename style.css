@@ -86,22 +86,21 @@ div.beloved:before {
 }
 
 div.beloved:after {
-  width: 100vmin;
-  height: 100vmin;
-  top: 30vmin;
-  left: 28vmin;
-  z-index: 50;
-  display: flex;
-  position: absolute;
-  white-space: pre;
-  content: "Thank you  \a Love\Send a screenshot of this";
-
-  text-align: center;
-  line-height: 1.1;
-  color: #ffffff;
-  opacity: 0.38;
-  font-family: "Architects Daughter", cursive;
-  font-size: 12vmin;
+      width: 100vmin;
+    height: 100vmin;
+    top: 28vmin;
+    left: 32vmin;
+    z-index: 50;
+    display: flex;
+    position: absolute;
+    white-space: pre;
+    content: "Thank you \a My Love\a If You Love Me \a Send a screenshot of this";
+    text-align: center;
+    line-height: 1.1;
+    color: #ffffff;
+    opacity: 1.38;
+    font-family: "Architects Daughter", cursive;
+    font-size: 4vmin;
 }
 
 div.beloved:before {
